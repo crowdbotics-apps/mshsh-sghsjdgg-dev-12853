@@ -35,6 +35,7 @@ export default class Blank extends React.Component {
         value={this.state.TextInput_3}
         onChangeText={nextValue => this.setState({ TextInput_3: nextValue })}
       />
+      asdadasdad
     </View>
   )
 }
